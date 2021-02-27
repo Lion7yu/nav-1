@@ -136,6 +136,7 @@ body{background: #eee;}
     width: 64px;
     height: 64px;
     
+    
 } 
 .siteList .addButton .text{
     font-size: 18px;
@@ -147,5 +148,6 @@ body{background: #eee;}
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor:pointer;
 
 }
